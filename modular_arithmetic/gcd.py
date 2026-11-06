@@ -7,7 +7,6 @@ remainderArr = []
 def gcd(x, y):
     # Need to take previous divider, divide it by the remainder of the result.
     # The original remainder becomes the previous divider, and the new remainder becomes the remainder of the previous result
-    # Need rec
 
     # Take past and divide it by present.
     # Discard past and make present the past and the future the present and so on.
