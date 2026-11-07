@@ -1,3 +1,5 @@
+# I sort of messed with this in later challenges so its slightly broken. But it's here anyway
+
 import time
 
 def convert(string):
