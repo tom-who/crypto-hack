@@ -1,0 +1,2 @@
+def xgdc(a, b):
+
